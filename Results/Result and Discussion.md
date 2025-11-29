@@ -67,7 +67,7 @@ In 2024, **New buildings and extensions** accounted for 25% of total turnover, c
 
 # 🎓 Learning Context
 
-This project was created by a learner exploring practical skills in:
+This project was created by [Worku Janka](https://github.com/workujanka) exploring practical skills in:
 
 - **MySQL**: Data cleaning, normalization, and querying  
 - **Power BI and Excel**: Visualization and dashboard creation  
