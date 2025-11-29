@@ -60,7 +60,7 @@ In 2024, **New buildings and extensions** accounted for 25% of total turnover, c
 
 - **Source**: Statistics Denmark (Danmarks Statistik)  
 - **Dataset**: Turnover by industry and work type in the construction sector (2015–2024)  
-- **License**: Public data under [Statistics Denmark’s reuse policy](https://www.dst.dk/en/OmDS/brug-statistik/dataadgang)  
+- **License**: Public data under [Statistics Denmark’s reuse policy](https://www.dst.dk/en/presse/kildeangivelse)  
   > Data may be reused freely with proper citation. No personal or sensitive data is included.
 
 ---
